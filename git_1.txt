@@ -1,1 +1,2 @@
 git_1
+git commit -m “init” 커밋시 남길 메시지
